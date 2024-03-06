@@ -1,0 +1,32 @@
+
+.divA {
+    background-color: #b9ccff;
+    width: 500px;
+    height: 500px;
+}
+
+.divB {
+    background-color: #2f00ff;
+    width: 70%;
+    height: 70%;
+}
+
+.divB p {
+    color: white;
+    background-color: #dc14c196;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.divD {
+    background-color: #B0E0E6;
+    width: 50vw;
+    height: 50vh;
+}
+
+.divE {
+    background-color: #fcd2cb;
+    width: 60vw;
+    height: 50%;
+}
